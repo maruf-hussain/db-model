@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "editor.foreground": "#fafafa",
+        "editorCursor.foreground": "#03ff2d",
+        "editor.lineHighlightBackground": "#131111",
+        "editor.selectionBackground": "#355666" ,
+           "sideBar.border": "#474443",
+    },
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": false,
+    "editor.fontFamily": "Noto Sans Javanese"
+
+}
